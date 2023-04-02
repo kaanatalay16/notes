@@ -10,3 +10,4 @@ https://kaanatalay.net/api/users --GET : get all users<br>
 https://kaanatalay.net/api/users/1 --GET : get one user, in sample user id : 1<br>
 https://kaanatalay.net/api/users/1/orders --GET : get one order, in sample user id 1's orders<br>
 <br>
+https://kaanatalay.net/api/market/categories --GET : get all cotegories<br>
